@@ -1,0 +1,302 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\design\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-design-26.0.0-alpha1_346754e95c41044986a29eaca032c38ec828825f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-appcompat-v7-26.0.0-alpha1_106d4e3210b895d910467cc42605503c2a54dd09.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="27942406f17e8b8e54175fdac0274805b4edcb2f">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-auth-11.2.2_aec1b43f445b3f442d05abb45f3d3b85145c64b6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\cardview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e176fd06c2ad5b50a2f5cb4de6000a83a7cb48f5">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-cardview-v7-26.0.0-alpha1_82852c3de674d303c158ea77e8a0cfbf3d1cfcc9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cf47665b22d68f560d1b8fa2e51b8c23a34574f2">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-tasks-11.2.2_c8c7386ea55fdbc7622798acd119a3df8b02495c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9a9ab7bfebf4a8d5c7fb1ac4e5dcf4bc4d6e3a0e">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-storage-11.2.2_d6758f78a46ac8b15e9f34053bdfc9ce336f5bcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1d2ee92c55b107ec366ddb534edae4548201e25b">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-base-11.2.2_4902c7d6ac4c82ed409d4eedd273587d7ffbb135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\firebase-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bceea9ecae6127fe2677fffebf1a1a20f19ca52e">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-firebase-release_7f309efa6dcf658801f0e551189dac3987bb2a57.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="227bbf04b4eae5247addf6569dc42af539a45f37">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-messaging-11.2.2_2228e5065fc0ef7ffea13472bb4280408e74aea7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-recyclerview-v7-26.0.0-alpha1_1acc1c45a025ba9c3e4306cf9bce93adc7e12523.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\customtabs\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="aebd345a61f563da0989cbd014479c8bf7bd77ab">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-customtabs-26.0.0-alpha1_8deb6eec682ae763293f1cc2c941cde13d9d1e0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="52e53fe7ad13a69d11736cc5b6cd890614a0f8f8">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-storage-common-11.2.2_b0b7e325256dc2df0351d2750a3ea0b003ba99e0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-animated-vector-drawable-26.0.0-alpha1_d32206cbeb6a6d1b69a3a51f8290f0b2e7d98392.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\PRO_10\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.8.2\3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf\gson-2.8.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3edcfe49d2c6053a70a2a47e4e1c2f94998a49cf">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\gson-2.8.2_48205c1cb0ff148b16ea6edbdf75328a42daf83a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="722f4e3d1abfa535e19043c813c62bb144a7d02f">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-analytics-impl-11.2.2_53fa9566d0606c18e34234189ca02df13d34464d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3352405f829252e602a47d252f11edd7c89d86ff">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-database-11.2.2_f931dd837c351a6bf13f3c79b76c55599834af52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-compat-26.0.0-alpha1_15a09d951dd403761050216c113239354039f0b5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\intermediates-exploded-aar-widgets-release_ee37571dc3f2def07d54b9f7fe169e363233c869.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="787102860a3ae9ed31c934b03ce15ba584a43005">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-iid-11.2.2_87c9897fd47fb74b8c04dfc76cb179666cd4202b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fc3479eb36ae71cbe2a3a589ceda3b8b3b56f08f">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-analytics-11.2.2_2ed15922d66e4bf02c4df4b386eebe971244b557.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-media-compat-26.0.0-alpha1_72ded68216356450577f3ddfa7c42a5689a7ca3c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ed36108b22a98a311676b5ad153d1e3587fcd16">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.android.gms-play-services-basement-11.2.2_860fded3f401fcef1fc0049ee392329d43de141b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-v4-26.0.0-alpha1_6200ccedeea85a47861227d499f0887086ccdbb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-vector-drawable-26.0.0-alpha1_f8cf80cfa709b53b863b679f9a883ddabd04a18f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-utils-26.0.0-alpha1_446bda17a86b84c1340f69e703f85d917cfddad6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\support-annotations-26.0.0-alpha1_7c88aee63584960575018a7d0454b660043aaeb4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-transition-26.0.0-alpha1_d50178a7c6d3c776cc43a5b345e3be0e83c9d1be.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\emReporter\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\emReporter-runtime-unspecified_b7c58f26d8b7a13eafc78cd554be6e08843653e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-core-ui-26.0.0-alpha1_8da15c8746135d34b73245b2f11fd6d8989762b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0-alpha1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.android.support-support-fragment-26.0.0-alpha1_e3c8967697fcb67c481009eb6ba528786ecaf4c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\emReporter\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\binding-generator_35810eb520cfe27d34d3fa84b5f512fd036c5020.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="30553c734f57621f31d6d56ad7b263123c7a014f">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-database-connection-11.2.2_102511552865dcb1d66e57af5b498cedf3887559.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\exploded-aar\com.google.firebase\firebase-common\11.2.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6de60b559084bc9f17f4d8916aaa35e058831696">
+        <dex dex="C:\DEVELOP\CODE\emReporter\platforms\android\build\intermediates\pre-dexed\F0F1\debug\com.google.firebase-firebase-common-11.2.2_c85af0e973c8f1d1f8578d0bff319859d9aed3c9.jar" />
+    </item>
+
+</items>

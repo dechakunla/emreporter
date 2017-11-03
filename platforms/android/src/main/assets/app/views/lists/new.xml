@@ -1,0 +1,17 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" loaded="onPageLoad">  
+    <Page.actionBar>
+        <ActionBar title="บุคคลากร">
+            <ActionBar.actionItems>
+                <ActionItem text="บันทึก" id="saveButton" ios.position="right" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar> 
+    <StackLayout orientation="vertical">
+        <TextField hint="ชื่อ-นามสกุล" id="pname" text="" autocapitalizationType="none" />
+        <TextField hint="อีเมล" id="email" text="" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField hint="เบอร์ติดต่อ" id="phone" text="" autocapitalizationType="none" />
+        <TextField hint="ที่อยู่" id="address" text="" autocapitalizationType="none" />
+
+        <Label id="result" text=" " textWrap="true"/>
+    </StackLayout>       
+</Page> 

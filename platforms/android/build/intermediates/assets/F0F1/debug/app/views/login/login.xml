@@ -1,0 +1,13 @@
+<Page loaded="onLoaded">
+    <ActionBar title="ระบบบันทึกงาน (EmReporter)" class="action-bar"></ActionBar>
+    <StackLayout orientation="vertical">
+        <Image src="http://loxton.com.sg/wp-content/uploads/2014/03/Improving-Productivity-Through-Employee-Engagement1.jpg" stretch="none" horizontalAlignment="center" />
+        <TextField hint="อีเมล" id="email" text="{{ email }}" keyboardType="email" autocorrect="false" autocapitalizationType="none" />
+        <TextField hint="รหัสผ่าน" text="{{ password }}" secure="true" />
+
+        <Button text="ล็อกอิน" tap="signinClick" />
+        <Button text="ลงทะเบียน" tap="registerClick" />
+        <Button text="รายการงาน" tap="taskClick" />
+
+    </StackLayout>
+</Page>

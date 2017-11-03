@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "491965058085",
+    "firebase_url": "https://emreporter-2a90d.firebaseio.com",
+    "project_id": "emreporter-2a90d",
+    "storage_bucket": "emreporter-2a90d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:491965058085:android:ca7e021f6c1c0afb",
+        "android_client_info": {
+          "package_name": "org.nativescript.emReporter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "491965058085-np551g3qa4s1p9lp85u7hmu3d5u5te6g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy8l2XKVU4lBWBWg8J-wkRxSr5gMAVBU8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

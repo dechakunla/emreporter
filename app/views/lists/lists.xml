@@ -1,0 +1,16 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">  
+    <Page.actionBar>
+        <ActionBar title="บุคคลากร">
+            <ActionBar.actionItems>
+                <ActionItem text="เพิ่ม" tap="newClick" ios.position="right" />
+            </ActionBar.actionItems>
+        </ActionBar>
+    </Page.actionBar>
+    <ListView items="{{ lists }}" itemTap="navigateToView">
+        <ListView.itemTemplate>
+            <StackLayout>
+                <Label text="{{ pname }}" />
+            </StackLayout>
+        </ListView.itemTemplate>
+    </ListView>
+</Page> 
